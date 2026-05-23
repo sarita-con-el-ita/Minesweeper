@@ -1,1 +1,1 @@
-package buscaminas
+package buscaminas;
