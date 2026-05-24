@@ -5,14 +5,17 @@ Nuestro diseño consta de 7 clases las cuales son: *InicioJuego*, *Registro*, *T
 ---
 
 #### ¿Cómo empezar a jugar? 
-En el archivo de *InicioJuego* le debes dar click a **run**, luego te aparecerá la terminal. Allí tienes el menú principal donde tienes varias opciones para elegir:
+Como primer paso abre la carpeta completa del proyecto en tu editor de código (como Visual Studio Code). Esto cargará todas las clases anteriormente mencionadas automáticamente. Luego haz doble click para ver el archivo principal *InicioJuego.java*.
+Como segundo paso haz click en el botón de **Run** (Ejecutar) arriba de tu editor. El sistema unirá todas las clases y el juego se abrirá abajo en la terminal.
+Como tercer paso en el menú principal, digita un número para elegir qué hacer:
 
 * **1**. Nueva Partida.
 * **2**. Historial.
 * **3**. Salir.
+  
 ---
    
-Siendo así debes digitar uno de los 3 números, vamos a suponer que digitas el número **1**, entonces las partidas tienen 3 niveles diferentes de dificultad:
+Siendo así después de digitar alguno de los tres números, vamos a suponer que digitas el número **1**, entonces las partidas tienen 3 niveles diferentes de dificultad:
 
 * **1**.Fácil(9 x 9, con 10 minas).
 * **2**. Medio (16 x 16, con 40 minas).
