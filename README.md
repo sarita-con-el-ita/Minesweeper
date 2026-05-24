@@ -1,6 +1,7 @@
 ### Juego Buscaminas
 
 Nuestro diseño consta de 7 clases las cuales son: *InicioJuego*, *Registro*, *Tablero*, *Casillas*, *Mina*, *SinMina*, y *Fin*.
+
 ---
 
 #### ¿Cómo empezar a jugar? 
@@ -25,7 +26,9 @@ Luego de ser digitado el número correspondiente al nivel que deseas, se creará
 #### ¿Cómo funciona el tablero?
 El tablero está configurado  de la siguiente forma:
 La casilla inicial está enumerada con el número **10**, es decir, arrancamos con el número diez, la casilla de al lado es la **11**, y así hasta terminar la fila. En la siguiente fila el número no se reinicia, sino que **continúa la secuencia**
+
 * Ejemplo: En el caso del nivel fácil, si la primera fila terminó en el numero **18**, la siguiente fila comenzará abajo con el número **19**.
+  
   ---
 
 #### El usuario interactúa con el tablero a través de los siguientes símbolos:
