@@ -222,19 +222,3 @@ public class InicioJuego{
     new InicioJuego().iniciar();
   }
 }
-
-        
-  
-      
-        
-    
-
-    
-    
-    
-    
-          
-          
-      
-
-  
