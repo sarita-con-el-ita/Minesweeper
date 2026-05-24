@@ -30,13 +30,17 @@ public class InicioJuego{
           break;
         case "3":
           System.out.println();
-          System.out.printl("Opción no válida. Elige 1, 2, 3.");
+          System.out.println("Opción no válida. Elige 1, 2, 3.");
       }
     }
     scanner.close();
   }
 
   private void mostrarMenu(){
+    System.out.println("+--------------------------+");
+    System.out.println("|      Menú principal      |");
+    System.out.println("+--------------------------+");
+    
     
           
           
