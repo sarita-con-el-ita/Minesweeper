@@ -45,9 +45,6 @@ Entonces el usuario empezará a digitar, por ejemplo, **d 10** y así sucesivame
 * **Para ganar:** Tienes que lograr descubrir todas las casillas seguras (las que no tienen mina) del tablero. Las únicas que deben quedar con la bandera, es decir con p, son las que tienen minas.Si lo logras el juego te felicitará y te dirá cuántos segundos te tomó ganar.
 * **Para perder:** Si digitas descubrir en una casilla que tiene una mina (por ejemplo, d 25, y ahí había una mina), el tablero explotará, y se revelarán todas las minas en la pantalla para que veas dónde estaban y el juego terminará.
 
-#### Protección del Primer Turno
-El juego tiene un escudo protector: primero te pide que digites tu primera casilla y **DESPUÉS** acomoda las minas en las demás casillas. Así que es 100% imposible que pierdas en tu primer intento.
-
 #### Funcionamiento de historial
 Si en el menú principal digitas el número 2 , entrarás al historial de partidas. Allí el juego por defecto te muestra el historial de partidas ordenadas automáticamente de menor a mayor tiempo. Sin embargo el usuario también tiene la opción de buscar una partida especifica a través de las siguientes opciones:
 
