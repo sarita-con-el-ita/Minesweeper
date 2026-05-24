@@ -41,6 +41,10 @@ public class InicioJuego{
     scanner.close();
   }
 
+  private void mostrarBienvenida(){
+    System.out.println("Bienvenido al buscaminas");
+  }
+
   private void mostrarMenu(){
     System.out.println("+--------------------------+");
     System.out.println("|      Menú principal      |");
