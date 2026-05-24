@@ -5,15 +5,19 @@ Nuestro diseño consta de 7 clases las cuales son: *InicioJuego*, *Registro*, *T
 
 ## ¿Cómo empezar a jugar?
 En el archivo de *InicioJuego* le debes dar click a **run**, luego te aparecerá la terminal. Allí tienes el menú principal donde tienes varias opciones para elegir:
+---
 **1**. Nueva Partida
 **2**. Historial
 **3**. Salir
+---
    
 Siendo así debes digitar uno de los 3 números, vamos a suponer que digitas el número **1**, entonces las partidas tienen 3 niveles diferentes de dificultad:
+---
 **1**.Fácil(9 x 9, con 10 minas)
 **2**. Medio (16 x 16, con 40 minas)
 **3**. Difícil (16 x 30, con 99 minas)
 **4**.Personalizado También tienes esta opción para elegir el tamaño de tablero que desees con sus respectivas minas
+
 Luego de ser digitado el número correspondiente al nivel que deseas, se creará el tablero
 
 ----
@@ -21,7 +25,7 @@ Luego de ser digitado el número correspondiente al nivel que deseas, se creará
 ## ¿Cómo funciona el tablero?
 El tablero está configurado  de la siguiente forma:
 La casilla inicial está enumerada con el número **10**, es decir, arrancamos con el número diez, la casilla de al lado es la **11**, y así hasta terminar la fila. En la siguiente fila el número no se reinicia, sino que **continúa la secuencia**
-* *Ejemplo:* En el caso del nivel fácil, si la primera fila terminó en el numero **18**, la siguiente fila comenzará abajo con el número **19**.
+* Ejemplo: En el caso del nivel fácil, si la primera fila terminó en el numero **18**, la siguiente fila comenzará abajo con el número **19**.
   ---
 
 ## El usuario interactúa con el tablero a través de los siguientes símbolos:
