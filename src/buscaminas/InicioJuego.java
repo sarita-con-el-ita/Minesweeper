@@ -96,7 +96,15 @@ public class InicioJuego{
 
     System.out.println();
     System.out.println(" Nivel: " + tablero.getNombreNivel() + " | Casillas del " + tablero.getNumeroBase() + " al " + tablero.getUltimoNumero());
-    System.out.println()
+    System.out.println(" Escribe 'salir' para abandonar la partida");
+    System.out.println();
+    tablero.imprimir(false);
+
+    while(!termino){
+      System.out.println(" >> ");
+
+      String linea = scanner.nextLine().trim().replaceAll("\\s+"," ");
+    
 
     
     
