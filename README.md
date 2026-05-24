@@ -5,9 +5,9 @@ Nuestro diseño consta de 7 clases las cuales son: *InicioJuego*, *Registro*, *T
 ---
 
 #### ¿Cómo empezar a jugar? 
-Como primer paso abre la carpeta completa del proyecto en tu editor de código (como Visual Studio Code). Esto cargará todas las clases anteriormente mencionadas automáticamente. Luego haz doble click para ver el archivo principal *InicioJuego.java*.
-Como segundo paso haz click en el botón de **Run** (Ejecutar) arriba de tu editor. El sistema unirá todas las clases y el juego se abrirá abajo en la terminal.
-Como tercer paso en el menú principal, digita un número para elegir qué hacer:
+* **Como primer paso:** abre la carpeta completa del proyecto en tu editor de código (como Visual Studio Code). Esto cargará todas las clases anteriormente mencionadas automáticamente. Luego haz doble click para ver el archivo principal *InicioJuego.java*.
+* **Como segundo paso:** haz click en el botón de **Run** (Ejecutar) arriba de tu editor. El sistema unirá todas las clases y el juego se abrirá abajo en la terminal.
+* **Como tercer paso:** en el menú principal, digita un número para elegir qué hacer:
 
 * **1**. Nueva Partida.
 * **2**. Historial.
