@@ -44,3 +44,13 @@ Entonces el usuario empezará a digitar, por ejemplo, **d 10** y así sucesivame
 
 #### Protección del Primer Turno
 El juego tiene un escudo protector: primero te pide que digites tu primera casilla y **DESPUÉS** acomoda las minas en las demás casillas. Así que es 100% imposible que pierdas en tu primer intento.
+
+#### Funcionamiento de historial
+Si en el menú principal digitas el número 2 , entrarás al historial de partidas. Allí el juego por defecto te muestra el historial de partidas ordenadas automáticamente de menor a mayor tiempo. Sin embargo el usuario también tiene la opción de buscar una partida especifica a través de las siguientes opciones:
+
+* **1** Buscar por número de partida.
+* **2** Buscar por resultado (victoria/derrota).
+* **3** Buscar por nivel.
+* **4** Buscar por tiempo(segundos).
+* **5** Volver al menú principal.
+
