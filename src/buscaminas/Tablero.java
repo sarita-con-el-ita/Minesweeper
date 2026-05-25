@@ -1,5 +1,3 @@
-package buscaminas;
-
 import java.util.Random;
 
 public class Tablero{
