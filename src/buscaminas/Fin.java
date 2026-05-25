@@ -1,5 +1,3 @@
-package buscaminas;
-
 public class Fin{
   private boolean gano;
   private long tiempoSeg;
